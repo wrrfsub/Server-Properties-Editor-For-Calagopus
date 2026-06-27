@@ -2,6 +2,8 @@
 
 A simple GUI editor for a Minecraft server's `server.properties`. Toggles for true/false, text fields for everything else, and it **auto-saves** as you change things.
 
+GitHub: https://github.com/wrrfsub/Server-Properties-Editor-For-Calagopus
+
 ![Preview](images/preview.png)
 
 ## Setup
@@ -22,3 +24,4 @@ A **Server Properties** page then appears in each server's sidebar.
 [![Requires Calagopus Panel](images/requires_calagopus_wide.png)](https://calagopus.com/)
 
 [![Support](images/support.jpg)](https://discord.gg/69XsmNbPNQ)
+
