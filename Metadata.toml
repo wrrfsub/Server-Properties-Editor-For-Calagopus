@@ -1,0 +1,3 @@
+package_name = "com.subwaystudios.serverproperties"
+name = "Server Properties"
+panel_version = ">=1.0.0"
