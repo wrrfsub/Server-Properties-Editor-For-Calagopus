@@ -4,6 +4,8 @@ A simple GUI editor for a Minecraft server's `server.properties`. Toggles for tr
 
 GitHub: https://github.com/wrrfsub/Server-Properties-Editor-For-Calagopus
 
+**Download:** [click here to download](https://github.com/wrrfsub/Server-Properties-Editor-For-Calagopus/raw/main/file/com_subwaystudios_serverproperties.c7s.zip)
+
 ![Preview](images/preview.png)
 
 ## Setup
